@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+.hyperlink{
+  font-size: 40px; color: whitesmoke; margin: 30px; text-decoration: none;
+}
+#container{
+  background-color: orange
+}
+.heading{
+  margin: 20px 10px; color: #00FFFF; font-family: 'Permanent Marker', cursive;
+}
+.image-preview{
+  width: 300px; margin-left: 550px; margin-bottom: 200px; margin-top: 100px; border-radius: 4px; box-shadow: 6px 6px 12px #9932CC;
+}
+.para{
+  text-align: center; 
+}
+.li{
+  text-decoration: none;
+}
+html{
+  scroll-behavior: smooth;
+}
+.food-paragraph{
+  font-size: 40px; color: #FF0000 ; text-align: center;  font-family: 'Goblin One', cursive; transform: translate(60px ,-180px) 
+}
+.menu-list{
+  font-size: 30px; color: #808000
+}
+.menu{
+  color: #ff00ff; text-decoration: none; font-family: Abril Fatface
+}
+.design{
+	background-color: #FFC0CB
+}
